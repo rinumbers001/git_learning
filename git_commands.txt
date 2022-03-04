@@ -1,0 +1,15 @@
+git init						// 
+
+git status
+
+git add <filename.ext> 
+
+git add .	// for all files to be added
+
+git commit -m "add comment here"
+
+git config --global user.name "Ricardo Nunes"
+
+git config --global user.email "rinumbers001@gmail.com"
+
+
