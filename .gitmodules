@@ -1,0 +1,3 @@
+[submodule "lpmanha"]
+	path = lpmanha
+	url = https://github.com/maromo71/lpmanha.git
